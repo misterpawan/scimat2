@@ -7,3 +7,14 @@ Paper: SCIMAT: Dataset of Problems in Science and Mathematics
 #Information: 
 - For mathematics dataset, the generated datasets are provided. 
 - For Science dataset, the generator files can be used to generate the required number of samples. 
+
+#If you find this useful, then please cite our work as follows:
+
+@misc{scimat,
+      title={SCIMAT: Science and Mathematics Dataset}, 
+      author={Neeraj Kollepara and Snehith Kumar Chatakonda and Pawan Kumar},
+      year={2021},
+      eprint={2109.15005},
+      archivePrefix={arXiv},
+      primaryClass={math.NA}
+}

@@ -1,20 +1,26 @@
-# SCIMAT: Question and answer dataset for mathematics and science
+# SCIMAT: Science and Mathematics Dataset
 
 ## Authors: Snehith, Neeraj, and Pawan, IIIT, Hyderabad, copyright 2021
 
-Paper: SCIMAT: Dataset of Problems in Science and Mathematics
+Paper: SCIMAT: Dataset of Problems in Science and Mathematics, arXiv: 2109.15005, 2021, [Paper](https://arxiv.org/abs/2109.15005)
 
-#Information: 
-- For mathematics dataset, the generated datasets are provided. 
+## Remark on using the dataset
+
+-You may use this paper with Char2Char or Word2Word encoding in Transformer or in LSTM as shown in the paper above. 
+
+-You may also generate different variations of the questions using the generator files. 
+
+# Information: 
+- For mathematics dataset, the generated datasets are provided. We will include the generator soon.
 - For Science dataset, the generator files can be used to generate the required number of samples. 
 
-#If you find this useful, then please cite our work as follows:
+## If you find this useful, then please do cite our work as follows:
 
-Neeraj Kollepara and Snehith Kumar Chatakonda and Pawan Kumar, SCIMAT: Science and Mathematics Dataset, arXiv: 2109.15005, 2021.
+Neeraj Kollepara, Snehith Kumar Chatakonda and Pawan Kumar, SCIMAT: Science and Mathematics Dataset, arXiv: 2109.15005, 2021.
 
-Bibtex
+## If you prefer Bibtex, then use the following:
 
-@misc{scimat,
+     @misc{scimat,
       
       title={SCIMAT: Science and Mathematics Dataset}, 
       
@@ -27,4 +33,5 @@ Bibtex
       archivePrefix={arXiv},
       
       primaryClass={math.NA}
-}
+      
+      }

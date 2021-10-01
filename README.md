@@ -6,7 +6,7 @@ Paper: SCIMAT: Dataset of Problems in Science and Mathematics, arXiv: 2109.15005
 
 ## Remark on using the dataset
 
--You may use this paper with Char2Char or Word2Word encoding in Transformer or in LSTM as shown in the paper above. 
+-You may use this dataset with Char2Char or Word2Word encoding in Transformer or in LSTM as shown in the paper above. 
 
 -You may also generate different variations of the questions using the generator files. 
 

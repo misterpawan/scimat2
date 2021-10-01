@@ -12,9 +12,14 @@ Paper: SCIMAT: Dataset of Problems in Science and Mathematics
 
 @misc{scimat,
       title={SCIMAT: Science and Mathematics Dataset}, 
+      
       author={Neeraj Kollepara and Snehith Kumar Chatakonda and Pawan Kumar},
+      
       year={2021},
+      
       eprint={2109.15005},
+      
       archivePrefix={arXiv},
+      
       primaryClass={math.NA}
 }

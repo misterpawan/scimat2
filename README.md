@@ -10,7 +10,12 @@ Paper: SCIMAT: Dataset of Problems in Science and Mathematics
 
 #If you find this useful, then please cite our work as follows:
 
+Neeraj Kollepara and Snehith Kumar Chatakonda and Pawan Kumar, SCIMAT: Science and Mathematics Dataset, arXiv: 2109.15005, 2021.
+
+Bibtex
+
 @misc{scimat,
+      
       title={SCIMAT: Science and Mathematics Dataset}, 
       
       author={Neeraj Kollepara and Snehith Kumar Chatakonda and Pawan Kumar},

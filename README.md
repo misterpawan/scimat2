@@ -14,7 +14,7 @@ Paper: SCIMAT: Dataset of Problems in Science and Mathematics, arXiv: 2109.15005
 - This is an open source project, so feeel free to help us grow this dataset!
 - For any dataset, the generator files can be used to generate the required number of samples.
 - Some existing range of values for quantities in generator file may not make sense, feel free to adapt those.
-- some parts of Mathematics dataset is adapted from deepmind dataset, for more Mathematics data see: https://github.com/deepmind/mathematics_dataset
+- some part of Mathematics dataset is adapted from deepmind dataset, for more Mathematics data see: https://github.com/deepmind/mathematics_dataset
 - Some part of the codes for mathematics datasets were written by Pratik Mandlecha (Microsoft, Hyderabad)
 
 ## If you find this useful, then please do cite our work as follows:

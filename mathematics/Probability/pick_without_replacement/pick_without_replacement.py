@@ -1,5 +1,4 @@
 import random
-import os
 import math
 # l = list(s)
 # random.shuffle(l)
@@ -7,8 +6,8 @@ import math
 
 # What is prob of picking 1 b and 1 p when two letters picked without replacement from tpppbbpbbb?
 
-qns = open('./questions_prob.txt', 'w') 
-ans = open('./answers_prob.txt','w')
+qns = open('./questions.txt', 'w') 
+ans = open('./answers.txt','w')
 no_of_samples = 2000000
 ascii_a = ord('a')
 number_to_word = ['','one','two','three','four','five','six','seven','eight','nine','ten']

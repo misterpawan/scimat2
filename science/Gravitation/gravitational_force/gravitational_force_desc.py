@@ -23,7 +23,7 @@ def type1() :
         q = "What is the gravitational force between two masses " + str(m1) + " kg and " + str(m2) + " kg seperated bt a distance " + str(R) + " m.\n"
     else :
         q = "What is the gravitational force between two masses " + str(m1) + " kg and " + str(m2) + " kg seperated bt a distance " + str(R) + " m. G = 6.67 x 10-11\n"
-    w = "{:.2e}".format(cal1(m1, m2, R)) + " newton\n"
+    w = "the gravitational between two bodies of masses m1 and m2 seperated by a distance d is given by, f = (g x m1 x m2)/d^2 = (6.67 x 10^-11 x " + str(m1) + " x 10^-3 x " + str(m2) + " x 10^-3)/" + str(R) + "^2 = " + "{:.2e}".format(cal1(m1, m2, R)) + " newton\n"
     return q,w
 
 for i in range(no_of_samples):
